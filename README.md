@@ -30,9 +30,9 @@ is not simply random text. It has roots in a piece of classical Latin literature
 Here code 
 ```
 
-[x]tested
+- [x] done
 
-[ ]untested
+- [ ] preparing
 
 
 * d
@@ -41,11 +41,11 @@ Here code
 + o
 - u
 
-1.a
-
-  -aa
-  
-  -ab
+1. First list item
+    - First nested list item
+        - test
+            + aa
+- Second nested list ite
   
 2.
 
