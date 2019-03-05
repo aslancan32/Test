@@ -1,6 +1,10 @@
 # Test
 =========================
 
+[![Google](https://img.shields.io/discord/259087343246508035.svg)](www.google.com)
+
+[![Chat](https://img.shields.io/discord/259087343246508035.svg)](https://discord.gg/material-components)
+
 A Test Project
 ```
 here write some codes
